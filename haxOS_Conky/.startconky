@@ -1,11 +1,12 @@
 #!/bin/zsh
 
-conky -c ~/.conky/haxOS_Conky/.conky_cal
-conky -c ~/.conky/haxOS_Conky/.conky_clock
-conky -c ~/.conky/haxOS_Conky/.conky_gmail
-conky -c ~/.conky/haxOS_Conky/.conky_mpd
-conky -c ~/.conky/haxOS_Conky/.conky_rss
-conky -c ~/.conky/haxOS_Conky/.conky_speed
-conky -c ~/.conky/haxOS_Conky/.conky_stod
-conky -c ~/.conky/haxOS_Conky/.conky_tor
-conky -c ~/.conky/hasOS_Conky/.conky_weather
+conky -c ~/.conky/haxOS_Conky/.conkyrc
+# conky -c ~/.conky/haxOS_Conky/.conky_cal
+# conky -c ~/.conky/haxOS_Conky/.conky_clock
+# conky -c ~/.conky/haxOS_Conky/.conky_gmail
+# conky -c ~/.conky/haxOS_Conky/.conky_mpd
+# conky -c ~/.conky/haxOS_Conky/.conky_rss
+# conky -c ~/.conky/haxOS_Conky/.conky_speed
+# conky -c ~/.conky/haxOS_Conky/.conky_stod
+# conky -c ~/.conky/haxOS_Conky/.conky_tor
+# conky -c ~/.conky/hasOS_Conky/.conky_weather
